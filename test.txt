@@ -1,0 +1,5 @@
+Hello World.
+
+This is my first file in a git repository.
+
+Made during the Hack on the Hill event on 11/12/17.
