@@ -1,4 +1,4 @@
-Hello World.
+Hack on the Hill.
 
 This is my first file in a git repository.
 
